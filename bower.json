@@ -1,0 +1,17 @@
+{
+    "name": "allan-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Anton Koovit"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/allan-bower.git"
+    },
+    "description": "Allan font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
